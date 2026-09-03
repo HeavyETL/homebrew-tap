@@ -11,4 +11,6 @@ cask "otis" do
   depends_on macos: :sonoma
 
   app "Otis.app"
+
+  zap trash: "~/Library/Preferences/dev.szup.otis.plist"
 end
