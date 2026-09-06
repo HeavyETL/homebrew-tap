@@ -1,6 +1,6 @@
 cask "otis" do
   version "0.0.0"
-  sha256 "acdf5ae2f3e5bb3b4342a26455457fe8e41406fd5929752bda573fb4386cb9a4"
+  sha256 "762bac739ee77de904d1dfec912d45530b840c9634e9844dfa9619df42338944"
 
   url "https://github.com/HeavyETL/otis-releases/releases/download/v#{version}/Otis-#{version}-macos-arm64.dmg"
   name "Otis"
